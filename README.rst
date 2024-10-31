@@ -1,5 +1,3 @@
-Here is the complete and corrected code:
-
 ```
 import random
 import time
